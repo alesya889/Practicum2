@@ -1,5 +1,0 @@
-sr=input()
-srsplit=sr.split()
-s=int(srsplit[0])
-r=int(srsplit[1])
-print(s+r)
